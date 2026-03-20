@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinoth Shanmugam Sr software Developer & Blockchain Consultant
-- 👀 I’m interested in Blockchain,AI, AWS, Java & Products.
+- 👀 I’m interested in Blockchain,AI, AWS, Go, Java & Products.
 - 🌱 I’m  learning AI, Cloud & System Design.
 - 💞️ I’m Blockchain & GenAI evenglist & Lead @WWCODE Blockchain Global Community
 - 📫 How to reach me vinothshanmugamm@gmail.com
